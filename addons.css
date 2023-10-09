@@ -1,0 +1,6 @@
+html{scroll-behavior: smooth;}
+.frontpage {background-image:url('frontpage.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-size: cover;}
+.siapa-kami {background-image:url('siapa-kami.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-size: cover;}
+.no-enemy {background-image:url('no-enemy.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-size: cover;}
+.games {background-image:url('games.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-size: cover;}
+.last {background-image:url('last.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-size: cover;}
